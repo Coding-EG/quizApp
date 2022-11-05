@@ -1,0 +1,34 @@
+[
+    {
+        "question":"5+4",
+        "question-o1":"5",
+        "question-o2":"9",
+        "question-o3":"5",
+        "question-o4":"6",
+        "answer":"9"
+    },
+    {
+        "question":"5-4",
+        "question-o1":"2",
+        "question-o2":"4",
+        "question-o3":"1",
+        "question-o4":"6",
+        "answer":"1"
+    },
+    {
+        "question":"5+14",
+        "question-o1":"22",
+        "question-o2":"19",
+        "question-o3":"15",
+        "question-o4":"20",
+        "answer":"19"
+    },
+    {
+        "question":"5*4",
+        "question-o1":"25",
+        "question-o2":"20",
+        "question-o3":"15",
+        "question-o4":"5",
+        "answer":"20"
+    }
+]
